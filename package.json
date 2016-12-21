@@ -1,0 +1,9 @@
+{
+  "name": "garage-door",
+  "main": "garage-door.js",
+  "dependencies": {
+    "body-parser": "~1.13.3",
+    "express": "~4.13.2",
+    "pi-gpio": "0.0.8"
+  }
+}
